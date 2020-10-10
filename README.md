@@ -1,1 +1,1 @@
-# Python-Project-pillow-tesseract-and-opencv-In-Progress
+# Python-Project-pillow-tesseract-and-opencv
